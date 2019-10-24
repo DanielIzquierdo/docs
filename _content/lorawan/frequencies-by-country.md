@@ -88,7 +88,7 @@ For discussions about the frequency plans in different countries, see the posts 
 
 | Country | Frequency Plan | Regulatory document |
 | --- | --- | --- |
-| Ecuador | US902-928 | |
+| Ecuador | US915-928 | [Res ARCOTEL 2018 0661 p25-26](http://www.arcotel.gob.ec/wp-content/uploads/2019/05/R.O.-545_-Res_ARCOTEL-2018-0661-UL-UDBL.pdf) |
 | Egypt
 | El Salvador
 | Equatorial Guinea
